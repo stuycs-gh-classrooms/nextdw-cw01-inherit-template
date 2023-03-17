@@ -1,0 +1,1 @@
+# nextdw-cw01-inherit-template
